@@ -9,5 +9,5 @@ A simple and powerful **chat application** built with Spring Boot , where users 
 - 🔐 Create or join unique chat rooms
 - 💬 Real-time messaging between users
 - 🧑‍🤝‍🧑 Multiple users in a room
-- 🌐 WebSocket-based communication (if used)
-- 📱 Responsive UI (mention if you built one)
+- 🌐 WebSocket-based communication 
+- 📱 Responsive UI 

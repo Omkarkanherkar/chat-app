@@ -1,8 +1,13 @@
-# React + Vite
+# 💬 ChatRoom - Real-Time Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and powerful **chat application** built with Spring Boot , where users can **create chat rooms** and **talk in real-time**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🔐 Create or join unique chat rooms
+- 💬 Real-time messaging between users
+- 🧑‍🤝‍🧑 Multiple users in a room
+- 🌐 WebSocket-based communication (if used)
+- 📱 Responsive UI (mention if you built one)
